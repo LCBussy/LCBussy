@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo18608
-Fork on GitHub5545
 <h1 align="center">Hi 👋, I'm Lee Bussy</h1>
 <h3 align="center">A lifelong nerd, tinkerer, and maker</h3>
 
@@ -28,5 +24,3 @@ Fork on GitHub5545
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lbussy&show_icons=true&locale=en&layout=compact" alt="lbussy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lbussy&show_icons=true&locale=en" alt="lbussy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lbussy&" alt="lbussy" /></p>
